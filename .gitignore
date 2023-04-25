@@ -1,0 +1,5 @@
+.idea
+/venv
+data/hotels_test.csv
+data/hotels_train.csv
+data/submission.csv
